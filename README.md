@@ -1,6 +1,6 @@
 # Projeto_Final_Dados
 
-Mantendo a estrutua básica para o template de projetos, as pastas:
+Mantendo a estrutura básica para o template de projetos, as pastas:
 
 - code : contém o código
 - input: contém as três bases de dados usadas como input para o projeto
